@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/krpraveen2025/f0f09a0a-a442-43ca-8251-6c478c88f0fc/cdbe65f3-a6aa-4470-8d83-6bfce85ce175/_apis/work/boardbadge/15b4731f-5070-4d8c-ae30-7bd9d5f11f98)](https://dev.azure.com/krpraveen2025/f0f09a0a-a442-43ca-8251-6c478c88f0fc/_boards/board/t/cdbe65f3-a6aa-4470-8d83-6bfce85ce175/Microsoft.RequirementCategory)
 2048-android
 ============
 
